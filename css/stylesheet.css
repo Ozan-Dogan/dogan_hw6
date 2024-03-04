@@ -4,8 +4,8 @@ body {
 }
 
 .container {
-    width: 85%;
+    width: 90%;
     margin: auto;
-    background-color: white;
+    background-color: orange;
     border: 1px solid black;
 }
